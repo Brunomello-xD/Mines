@@ -8,7 +8,7 @@ const params = {
   difficultLevel: 0.1,
   getColumnsAmount() {
     const width = Dimensions.get("window").width;
-    return Math.floor(width / this.blockSize); //floor aredonda pra baixo caso seja necessário
+    return Math.floor(width / this.blockSize); //floor arredonda pra baixo caso seja necessário
   },
   getRowsAmount() {
     const totalHeight = Dimensions.get("window").height;
