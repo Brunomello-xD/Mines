@@ -18,7 +18,7 @@ OpenJDK 64-Bit Server VM (build 25.232-b09, mixed mode)<br/>
 v6.13.4
 
 <b>Sistema operacional:</b><br/>
-<a href="https://xubuntu.org/">Xubuntu 18.04</a>
+<a href="https://neon.kde.org/">KDE neon</a>
 
 <h1>Campo minado</h1>
 <img src="img/mines.png">
