@@ -4,10 +4,10 @@
 
 <b>Versão do React Native:</b><br/>
 <a href="https://facebook.github.io/react-native/docs/0.59/getting-started
-">0.59.10</a><br>
+">0.56.0</a><br>
 
 <b>Versão do Node:</b><br/>
-v12.14.1
+v12.15.0
 
 <b>Versão do Java:</b><br/>
 openjdk version "1.8.0_232"<br/>
